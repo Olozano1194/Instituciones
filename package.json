@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "<h1 align='center'>Plataforma</h1>",
   "dependencies": {
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.7",
